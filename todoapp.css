@@ -1,0 +1,22 @@
+body {
+
+    background-image: linear-gradient(to right, #fababa, #fabaea,  #edbafa,  #bebafa,  #bafae5,  #bafaba,  #faeeba,  #fababa )
+}
+#lista{
+    display: flex;
+    flex-direction: column;
+    font-family: monospace;
+    font-size: 20px;
+}
+.redItem {
+    color: red;
+}
+.greenItem {
+    color: rgb(62, 253, 62);
+}
+.app {
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
